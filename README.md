@@ -1,4 +1,6 @@
 # admin
+## 项目背景
+王者荣耀官网移动端临摹
 
 ## Project setup
 ```
